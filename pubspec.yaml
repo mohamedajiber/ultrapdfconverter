@@ -37,8 +37,3 @@ flutter:
   uses-material-design: true
 
 
-  assets:
-    - assets/images/image_to_pdf.png
-    - assets/images/word_to_pdf.png
-    - assets/images/view_pdf.png
-    - assets/images/settings.png
