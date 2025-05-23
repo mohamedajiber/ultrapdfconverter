@@ -1,0 +1,44 @@
+name: ultrapdfconverter
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  file_picker: ^6.1.1
+  pdf: ^3.10.4
+  printing: ^5.11.0
+  path_provider: ^2.0.15
+  permission_handler: ^11.0.1
+  share_plus: ^7.2.1
+  image_picker: ^1.0.7
+  reorderables: ^0.6.0
+  google_fonts: ^6.0.0
+  flutter_pdfview: ^1.2.7
+  syncfusion_flutter_pdfviewer: ^24.1.41
+  open_file: ^3.5.10
+  google_mobile_ads: ^2.3.0 
+  vibration: ^2.0.0
+  flutter_plugin_android_lifecycle: ^2.0.0
+  
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+
+  assets:
+    - assets/images/image_to_pdf.png
+    - assets/images/word_to_pdf.png
+    - assets/images/view_pdf.png
+    - assets/images/settings.png
